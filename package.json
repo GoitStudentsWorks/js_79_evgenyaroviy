@@ -2,10 +2,10 @@
   "name": "async-avengers",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://evgenyaroviy.github.io/async-avengers/index.html",
+  "homepage": "https://GoitStudentsWorks.github.io/js_79_evgenyaroviy",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /async-avengers/"
+    "build": "parcel build src/*.html --public-url /js_79_evgenyaroviy/"
   },
   "repository": {
     "type": "git",
